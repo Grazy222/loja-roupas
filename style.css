@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    height: 20vh;
+    background-color: #A620D6;
+    color: white;
+    font-weight: 100;
+    font-family: Inter;
+
+}
+nav{
+    height: 20vh;
+    
+}
+ul{
+    font-family: "Inter";
+    height: 20vh;
+    
+
+   
+}
+li{
+    display: inline-block;
+    padding-left: 100px;
+    margin-top: 68px;
+    margin-left: 155px;
+    font-size: 20px;
+}
+
+main{
+    background-color: #20b8d6;
+    height: 66vh;
+    
+    
+   
+}
+section{
+    display: inline-block;
+    margin-left: 100px;
+    padding-top: 31px;
+}
+
+img{
+    width: 18vw;
+    height: 31vh;
+    display: inline-block;
+    margin: 10px;
+}
+h2{
+    
+    width: 42%;
+    text-align: center;
+    margin-left : 98px;
+    
+}
+button{
+    width: 7vw;
+    height: 5vh;
+    background-color: #D9D9D9;
+    margin-left : 100px;
+    padding: 10px;
+    margin-top: 5px;
+
+
+}
+.medidas{
+    
+    width: 9vw;
+    height: 5vh;
+    padding: 11px;
+    text-align: center;
+    margin-left : 82px;
+    margin-top: 10px;
+}
+footer{
+    background-color: #E8A6FF;
+    height: 14vh;
+}
+.cadastro{
+    width: 50vw;
+    height: 9vh;
+    font-size: 20px;
+    font-family: "inter";
+    margin-left: 55px;
+    padding-top: 19px;
+}
+
+
+.formularioFooter{
+    margin-left: 53px;
+    font-family: "inter";
+    
+}
+.enviar{
+    width: 5vw;
+    height: 3vh;
+}
